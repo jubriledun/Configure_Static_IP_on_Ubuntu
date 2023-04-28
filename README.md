@@ -1,5 +1,5 @@
 # How_to_Configure_Static_IP_on_Ubuntu
-A simple Linux task on how to configure static IP on the Network Interface of a Linux (ubuntu) machine from the terminal.
+A simple explanation on how to configure static IP on the Network Interface of a Linux (ubuntu) machine from the terminal.
 
 # What_is_Netplan
 Netplan is the default network configuration tool for managing networks in Ubuntu. It uses YAML files that are located in ***/etc/netplan/***. It supports two renderers to control network interfaces on Ubuntu based systems which are **NetworkManager** and **systemd(networkd)**. NetworkManager is mostly used on client's desktop machine as it is GUI based while systemd(networkd) is used on servers without a GUI
